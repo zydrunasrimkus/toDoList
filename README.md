@@ -12,3 +12,4 @@
 - EJS
 - CSS
 - HTML5
+- MongoDB
