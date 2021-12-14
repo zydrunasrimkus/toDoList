@@ -1,3 +1,1 @@
-.node_modules
-Procfile
-package-lock.json
+node_modules/
